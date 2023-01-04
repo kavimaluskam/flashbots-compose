@@ -50,5 +50,5 @@ services:
         "--suggested-fee-recipient=${BUILDER_ADDRESS}",
         "--datadir=/data",
         "--checkpoint-sync-url=https://goerli.checkpoint-sync.ethpandaops.io",
-        "--genesis-beacon-api-url=https://goerli.checkpoint-sync.ethpandaops.io"
+        "--genesis-beacon-api-url=https://goerli.checkpoint-sync.ethpandaops.io",
       ]
